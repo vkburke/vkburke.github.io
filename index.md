@@ -13,17 +13,20 @@ Welcome to my project site! My name is Victoria Burke and I am a Computer Scienc
 During my free time, I enjoy spending time with friends and family as well as being active. I play roller derby for the Windy City Rollers, both recreationally and competitively, traveling throughout the midwest to play other teams. In 2023, I ran the Bank of America Chicago Marathon for the organization PAWS, which is dedicated to helping save and find homes for animals, and I hope to be able to participate again in the future! 
 
 If you have any questions or would like to connect, please feel free to send me an email. 
-Thank you for taking the time to look at my project.
+Thank you for taking the time to look at my project!
 
 
 
 ## About My Advisor
 
-Advisor info goes here.
+My advisor for this research project is Thiru Ramaraj. Thiru is an Assistant Professor at the School of Computing at DePaul University, with his research focusing on Computational Biology and Applied Bioinformatics. Prior to working at DePaul University, Thiru was a Research Scientist at the National Center for Genome Resources (NCGR) where he developed computational workflows for high-throughout DNA/RNA sequence data analysis. An extensive list of his publications is available on Google Scholar. Thiru has been extremely helpful during my research project and I look forward to continue working together. 
 
 ## About My Project
 
-Project description goes here.
+Brain Stem: 
+
+Soil: 
+
 
 [My Final Report](files/finalreport.pdf)
 
