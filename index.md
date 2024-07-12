@@ -23,9 +23,9 @@ My advisor for this research project is Thiru Ramaraj. Thiru is an Assistant Pro
 
 ## About My Project
 
-Brain Stem: 
 
-Soil: 
+The brainstem's medullary reticular formation is crucial for controlling vital orofacial motor behaviors like breathing, swallowing, etc. Disruptions in these circuits can lead to conditions such as Sudden Infant Death Syndrome, dysphagia, and speech disorders. Our research aims to understand the structural and functional organization of the reticular formation and its role in controlling orofacial motor behaviors. We are using machine learning to segment the reticular formation into function-specific nuclei based on gene expression and spatial location, using the Allen Developing Mouse Brain Atlas, focusing on the P4 mice. 
+
 
 
 [My Final Report](files/finalreport.pdf)
