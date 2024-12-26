@@ -23,12 +23,7 @@ My advisor for this research project is Thiru Ramaraj. Thiru is an Assistant Pro
 
 ## About My Project
 
-I am currently assisting with two projects, here's a brief summary about them both: 
-
-
-1. The brainstem's medullary reticular formation is crucial for controlling vital orofacial motor behaviors like breathing, swallowing, etc. Disruptions in these circuits can lead to conditions such as Sudden Infant Death Syndrome, dysphagia, and speech disorders. Our research aims to understand the structural and functional organization of the reticular formation and its role in controlling orofacial motor behaviors. We are using machine learning to segment the reticular formation into function-specific nuclei based on gene expression and spatial location, using the Allen Developing Mouse Brain Atlas, focusing on the P4 mice. 
-
-2. This research project focuses on the comprehensive analysis of soil microbiomes through the use of QIIME2 (Quantitative Insights Into Microbial Ecology 2) and 16S rRNA gene sequencing. 16S rRNA is a component of the 30S small subunit of prokaryotic ribosomes. It is a highly conserved region of the ribosomal RNA, making it an ideal target for studying bacterial phylogeny and taxonomy. QIIME2 allows us to perform analysis which helps us understand the diversity and composition of microbiomes.
+This research project focuses on the comprehensive analysis of soil microbiomes through the use of QIIME2 (Quantitative Insights Into Microbial Ecology 2) and 16S rRNA gene sequencing. 16S rRNA is a component of the 30S small subunit of prokaryotic ribosomes. It is a highly conserved region of the ribosomal RNA, making it an ideal target for studying bacterial phylogeny and taxonomy. QIIME2 allows us to perform analysis which helps us understand the diversity and composition of microbiomes.
 
 [My Final Report](files/finalreport.pdf)
 
